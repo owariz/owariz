@@ -29,7 +29,7 @@
 
 [![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=Variz-h264&theme=tokyo-night&radius=6&area=true)](https://fabianocouto-activity-graph.vercel.app/graph/?username=Variz-h264&theme=tokyo-night&radius=6&area=true)
 <img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Variz-h264&show_icons=true&theme=radical">  
-<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Variz-h264&layout=compact">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <hr>
