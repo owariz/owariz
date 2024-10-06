@@ -15,5 +15,5 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=Variz-h264&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <br />
-  img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Variz-h264&theme=tokyo-night&radius=6&area=true)" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Variz-h264&theme=tokyo-night&radius=6&area=true)" />
 </div>
