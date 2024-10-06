@@ -17,5 +17,5 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=Variz-h264&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Variz-h264&theme=ayu-mirage&hide_border=true&layout=compact" alt="wakatime" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Variz-h264)](https://github.com/anuraghazra/github-readme-stats)
 </div>
