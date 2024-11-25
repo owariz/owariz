@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! I'm Variz</h2>
-
 ###
 ```cs
 <h2 align="left">Hi 👋! I'm Variz</h2>
