@@ -1,35 +1,44 @@
 <h2 align="left">Hi 👋! I'm Variz</h2>
 
-###
-- 👤 **Name:** Variz  
-- 🎂 **Age:** 19  
-- 💻 **Skills:**
+```csharp
+using System;
+using System.Collections.Generic;
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Svelte
-- Tailwind CSS
-- Bootstrap
+class Program
+{
+    static void Main()
+    {
+        var myProfile = new
+        {
+            Profile = new
+            {
+                Name = "Variz",
+                Age = 19,
+                Skills = new List<string> { "JavaScript/TypeScript", "Svelte", "React", "Vue", "Python", "Go", "MongoDB" }
+            },
+            Social = new
+            {
+                GitHub = "github.com/owariz",
+                Discord = "v_variz",
+                Email = "panitthapwon@gmail.com"
+            }
+        };
 
-### Backend
-- Node.js
-- PHP
-- Laravel
-- C#
-- Go
-
-### Database
-- PostgreSQL
-- MariaDB
-- MongoDB
-- MySQL
-
----
-
-🌟 **Nice to meet you!**
+        Console.WriteLine("My Profile:");
+        Console.WriteLine($"Name: {myProfile.Profile.Name}");
+        Console.WriteLine($"Age: {myProfile.Profile.Age}");
+        Console.WriteLine("Skills:");
+        foreach (var skill in myProfile.Profile.Skills)
+        {
+            Console.WriteLine($"- {skill}");
+        }
+        Console.WriteLine("\nSocial Links:");
+        Console.WriteLine($"GitHub: {myProfile.Social.GitHub}");
+        Console.WriteLine($"Discord: {myProfile.Social.Discord}");
+        Console.WriteLine($"Email: {myProfile.Social.Email}");
+    }
+}
+```
 ###
 
 <h2 align="left">📊 My Stats:</h2>
