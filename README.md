@@ -1,9 +1,9 @@
-###
-```cs
 <h2 align="left">Hi 👋! I'm Variz</h2>
 
+###
+```cs
 - 👤 **Name:** Variz  
-- 🎂 **Age:** 25  
+- 🎂 **Age:** 19  
 - 💻 **Skills:**
 
 ### Frontend
