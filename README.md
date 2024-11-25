@@ -2,50 +2,37 @@
 
 ###
 ```cs
-using System;
+<h2 align="left">Hi 👋! I'm Variz</h2>
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Personal Information
-        string name = "Variz";
-        int age = 19;
+- 👤 **Name:** Variz  
+- 🎂 **Age:** 25  
+- 💻 **Skills:**
 
-        // Skills
-        string[] frontendSkills = { "HTML", "CSS", "JavaScript", "React", "Svelte", "Tailwind CSS", "Bootstrap" };
-        string[] backendSkills = { "Node.js", "PHP", "Laravel", "C#", "Go" };
-        string[] databaseSkills = { "PostgreSQL", "MariaDB", "MongoDB", "MySQL" };
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Svelte
+- Tailwind CSS
+- Bootstrap
 
-        // Introduction
-        Console.WriteLine("Hi 👋! I'm " + name);
-        Console.WriteLine("Age: " + age);
-        Console.WriteLine("\nSkills:");
+### Backend
+- Node.js
+- PHP
+- Laravel
+- C#
+- Go
 
-        // Frontend Skills
-        Console.WriteLine("Frontend:");
-        foreach (var skill in frontendSkills)
-        {
-            Console.WriteLine("- " + skill);
-        }
+### Database
+- PostgreSQL
+- MariaDB
+- MongoDB
+- MySQL
 
-        // Backend Skills
-        Console.WriteLine("\nBackend:");
-        foreach (var skill in backendSkills)
-        {
-            Console.WriteLine("- " + skill);
-        }
+---
 
-        // Database Skills
-        Console.WriteLine("\nDatabase:");
-        foreach (var skill in databaseSkills)
-        {
-            Console.WriteLine("- " + skill);
-        }
-
-        Console.WriteLine("\nNice to meet you!");
-    }
-}
+🌟 **Nice to meet you!**
 ```
 ###
 
