@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! I'm Variz</h2>
 
 ###
-```cs
 - 👤 **Name:** Variz  
 - 🎂 **Age:** 19  
 - 💻 **Skills:**
@@ -31,7 +30,6 @@
 ---
 
 🌟 **Nice to meet you!**
-```
 ###
 
 <h2 align="left">📊 My Stats:</h2>
