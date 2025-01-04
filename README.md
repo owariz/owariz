@@ -45,7 +45,7 @@ I'm a 19-year-old developer passionate about coding and exploring various techno
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=owariz&theme=ayu-mirage&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owariz&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)
 
 ## 🤝 Connect with Me
 - **GitHub:** [github.com/owariz](https://github.com/owariz)
