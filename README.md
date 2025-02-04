@@ -62,4 +62,7 @@ I'm a 19-year-old developer passionate about coding and exploring various techno
 - **Email:** panitthapwon@gmail.com
 
 ## 🏆 Contributions
-![GitHub Streak](https://streak-stats.demolab.com?user=owariz&theme=ayu-mirage&hide_border=true)
+[![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=owariz&theme=tokyo-night&radius=6&area=true)](https://fabianocouto-activity-graph.vercel.app/graph/?username=owariz&theme=tokyo-night&radius=6&area=true)
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=owariz&show_icons=true&theme=radical">  
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
