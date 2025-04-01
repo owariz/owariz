@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Panit Thapwon
 
 ## 🚀 About Me
-I'm a 19-year-old developer passionate about coding and exploring various technologies.
+I'm a 20-year-old developer passionate about coding and exploring various technologies.
 
 ## 💻 Tech Stack
 
