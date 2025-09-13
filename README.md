@@ -5,8 +5,9 @@
 ---
 
 ## 🚀 About Me  
-I'm a 20-year-old developer passionate about coding and exploring various technologies.  
-💡 Always curious • 💻 Love building stuff • 🌐 Open to collabs  
+- 20 y/o developer passionate about building and exploring tech  
+- Enjoys working across the stack (frontend → backend → infra)  
+- Currently diving deeper into **Hono**, **Cloud Platforms**, and **DevOps**  
 
 ---
 
